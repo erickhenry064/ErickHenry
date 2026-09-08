@@ -1,2 +1,0 @@
-# ErickHenry
-Meus Projetos
