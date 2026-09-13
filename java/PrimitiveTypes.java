@@ -1,16 +1,3 @@
-/**
- * Repertório de Tipos Primitivos em JAVA
- * -----------------------------------------
- * Java possui 8 tipos primitivos, divididos em:
- * - Numéricos inteiros: byte, short, int, long
- * - Numéricos de ponto flutuante: float, double
- * - Caractere: char
- * - Lógico: boolean
- *
- * Para compilar e executar:
- *   javac PrimitiveTypes.java
- *   java PrimitiveTypes
- */
 public class PrimitiveTypes {
 
     public static void main(String[] args) {
