@@ -1,21 +1,3 @@
-/* * Repertório de Tipos Primitivos em JAVASCRIPT
- * -----------------------------------------------
- * JavaScript possui 7 tipos primitivos (ECMAScript atual):
- *   - string
- *   - number
- *   - bigint
- *   - boolean
- *   - undefined
- *   - null
- *   - symbol
- *
- * Diferente de Java, JS não distingue int/float/double: existe
- * apenas "number" (ponto flutuante de 64 bits, IEEE 754).
- *
- * Para executar:
- *   node primitiveTypes.js
- */
-
 console.log("===== REPERTÓRIO DE TIPOS PRIMITIVOS - JAVASCRIPT =====\n");
 
 // ---------- string ----------
